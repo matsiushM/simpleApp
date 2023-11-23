@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/simple/static/js/main.cf54d48a.js",
-    "index.html": "/simple/index.html",
-    "main.cf54d48a.js.map": "/simple/static/js/main.cf54d48a.js.map"
+    "main.js": "/simpleApp/static/js/main.cf54d48a.js",
+    "index.html": "/simpleApp/index.html",
+    "main.cf54d48a.js.map": "/simpleApp/static/js/main.cf54d48a.js.map"
   },
   "entrypoints": [
     "static/js/main.cf54d48a.js"
